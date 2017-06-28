@@ -1,0 +1,11 @@
+com/iShop/mapper/TbItemParamMapper.class
+com/iShop/mapper/TbOrderMapper.class
+com/iShop/mapper/TbUserMapper.class
+com/iShop/mapper/TbContentCategoryMapper.class
+com/iShop/mapper/TbContentMapper.class
+com/iShop/mapper/TbItemParamItemMapper.class
+com/iShop/mapper/TbItemDescMapper.class
+com/iShop/mapper/TbItemCatMapper.class
+com/iShop/mapper/TbOrderShippingMapper.class
+com/iShop/mapper/TbItemMapper.class
+com/iShop/mapper/TbOrderItemMapper.class
